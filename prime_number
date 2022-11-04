@@ -12,8 +12,6 @@ function checkPrime(num)
 		return true;
 	}
 
-}
-
 let ans=checkPrime(1);
 if (ans){
   console.log("Prime");
